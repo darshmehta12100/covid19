@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+It is tracker which helps you to keep track of cases of covid19 throughout the world.
+It also has a search option.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
